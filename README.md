@@ -9,9 +9,8 @@ Para poder demostrar y aprender la creación y consumo de Interfaces de Programa
 
 |No.|Fecha |Descripción|Potenciador|Estatus|
 |--|--|--|--|--|
-|8.|17/10/2024|Nuevo Repositorio del Proyecto implementando .gitignore|1| ⭐Activa|
-
-✅Finalizada
+|8.|17/10/2024|Nuevo Repositorio del Proyecto implementando .gitignore|1| ✅finalizada|
+|9.|22/10/2024|Creación de una Aplicación Web usando Express| 12|✅Finalizada|
 
 
 ### Autor
